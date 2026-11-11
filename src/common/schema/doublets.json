@@ -1,0 +1,8 @@
+{
+  "stage": "doublets",
+  "version": "0.1.0",
+  "benchmark": "omni-scrna/ambient-plan",
+  "args": [
+    { "flag": "--dataset_h5ad", "type": "path", "help": "Final per-dataset h5ad, after concatenate_dataset has merged every pool" }
+  ]
+}
